@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DigitalStreet/static/css/main.56f7e723.css",
+    "main.js": "/DigitalStreet/static/js/main.0e969ae1.js",
+    "index.html": "/DigitalStreet/index.html",
+    "main.56f7e723.css.map": "/DigitalStreet/static/css/main.56f7e723.css.map",
+    "main.0e969ae1.js.map": "/DigitalStreet/static/js/main.0e969ae1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56f7e723.css",
+    "static/js/main.0e969ae1.js"
+  ]
+}
