@@ -1,0 +1,18 @@
+.pagination{
+    margin-bottom: 50px;
+    padding: 30px;
+    
+}
+/* .pagination nav ul{
+    position: relative;
+    left: 50%;
+    
+} */
+.pagination nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pagination nav ul li button{
+    font-size: 1.2rem;
+}

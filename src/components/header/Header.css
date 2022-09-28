@@ -1,0 +1,11 @@
+.header{
+    text-transform: uppercase;
+    background-color: #8685EF;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px  0;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 5px;
+    margin: 0;
+    font-size: 3rem;
+}
